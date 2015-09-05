@@ -1,7 +1,7 @@
 # Kazan Federal University Programming Course
 # 1st Semestr
 ========  
-  
+11  
 Links:  
   
 Literature etc: http://study.istamendil.info/  
