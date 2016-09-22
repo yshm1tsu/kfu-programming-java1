@@ -9,3 +9,4 @@ Name Surname
 8)  Khusnutdinov Ainur
 9)  Zhukovets Evgeniy
 10)  Muhammetzyanov Rinat
+11)  Daniil Demin
