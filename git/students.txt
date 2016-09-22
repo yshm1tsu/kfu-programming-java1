@@ -10,3 +10,4 @@ Name Surname
 9)  Zhukovets Evgeniy
 10)  Muhammetzyanov Rinat
 11)  Daniil Demin
+12)  Bulat Muzipov
